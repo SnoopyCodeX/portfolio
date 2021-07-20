@@ -2,5 +2,5 @@
 
 @font-face {
     font-family: "Roboto";
-    src: 'fonts/Roboto/Roboto-Regular.ttf' format('truetype');
+    src: '../fonts/Roboto/Roboto-Regular.ttf' format('truetype');
 }
