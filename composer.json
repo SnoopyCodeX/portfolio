@@ -1,0 +1,7 @@
+{
+    "name": "snoopycodex/portfolio",
+    "description": "My Portfolio",
+    "type": "project",
+    "minimum-stability": "stable",
+    "require": {}
+}
