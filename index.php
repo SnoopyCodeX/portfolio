@@ -9,26 +9,26 @@
 
 
     <!--  Bootstrap css file  -->
-    <link rel="stylesheet" href="./css/bootstrap.min.css">
+    <link rel="stylesheet" href="css/bootstrap.min.css">
 
     <!--  font awesome icons  -->
-    <link rel="stylesheet" href="./css/all.min.css">
+    <link rel="stylesheet" href="css/all.min.css">
 
 
     <!--  Magnific Popup css file  -->
-    <link rel="stylesheet" href="./vendor/Magnific-Popup/dist/magnific-popup.css">
+    <link rel="stylesheet" href="vendor/Magnific-Popup/dist/magnific-popup.css">
 
 
     <!--  Owl-carousel css file  -->
-    <link rel="stylesheet" href="./vendor/owl-carousel/css/owl.carousel.min.css">
-    <link rel="stylesheet" href="./vendor/owl-carousel/css/owl.theme.default.min.css">
+    <link rel="stylesheet" href="vendor/owl-carousel/css/owl.carousel.min.css">
+    <link rel="stylesheet" href="vendor/owl-carousel/css/owl.theme.default.min.css">
 
 
     <!--  custom css file  -->
-    <link rel="stylesheet" href="./css/style.css">
+    <link rel="stylesheet" href="css/style.css">
 
     <!--  Responsive css file  -->
-    <link rel="stylesheet" href="./css/responsive.css">
+    <link rel="stylesheet" href="css/responsive.css">
 
 </head>
 
@@ -477,22 +477,22 @@
 
 
     <!--  Jquery js file  -->
-    <script src="./js/jquery.3.4.1.js"></script>
+    <script src="js/jquery.3.4.1.js"></script>
 
     <!--  Bootstrap js file  -->
-    <script src="./js/bootstrap.min.js"></script>
+    <script src="js/bootstrap.min.js"></script>
 
     <!--  isotope js library  -->
-    <script src="./vendor/isotope/isotope.min.js"></script>
+    <script src="vendor/isotope/isotope.min.js"></script>
 
     <!--  Magnific popup script file  -->
-    <script src="./vendor/Magnific-Popup/dist/jquery.magnific-popup.min.js"></script>
+    <script src="vendor/Magnific-Popup/dist/jquery.magnific-popup.min.js"></script>
 
     <!--  Owl-carousel js file  -->
-    <script src="./vendor/owl-carousel/js/owl.carousel.min.js"></script>
+    <script src="vendor/owl-carousel/js/owl.carousel.min.js"></script>
 
     <!--  custom js file  -->
-    <script src="./js/main.js"></script>
+    <script src="js/main.js"></script>
 
 
 </body>
