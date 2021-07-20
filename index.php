@@ -16,12 +16,12 @@
 
 
     <!--  Magnific Popup css file  -->
-    <link rel="stylesheet" href="vendor/Magnific-Popup/dist/magnific-popup.css">
+    <link rel="stylesheet" href="libs/Magnific-Popup/dist/magnific-popup.css">
 
 
     <!--  Owl-carousel css file  -->
-    <link rel="stylesheet" href="vendor/owl-carousel/css/owl.carousel.min.css">
-    <link rel="stylesheet" href="vendor/owl-carousel/css/owl.theme.default.min.css">
+    <link rel="stylesheet" href="libs/owl-carousel/css/owl.carousel.min.css">
+    <link rel="stylesheet" href="libs/owl-carousel/css/owl.theme.default.min.css">
 
 
     <!--  custom css file  -->
@@ -483,13 +483,13 @@
     <script src="js/bootstrap.min.js"></script>
 
     <!--  isotope js library  -->
-    <script src="vendor/isotope/isotope.min.js"></script>
+    <script src="libs/isotope/isotope.min.js"></script>
 
     <!--  Magnific popup script file  -->
-    <script src="vendor/Magnific-Popup/dist/jquery.magnific-popup.min.js"></script>
+    <script src="libs/Magnific-Popup/dist/jquery.magnific-popup.min.js"></script>
 
     <!--  Owl-carousel js file  -->
-    <script src="vendor/owl-carousel/js/owl.carousel.min.js"></script>
+    <script src="libs/owl-carousel/js/owl.carousel.min.js"></script>
 
     <!--  custom js file  -->
     <script src="js/main.js"></script>
