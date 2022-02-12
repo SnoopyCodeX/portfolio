@@ -481,7 +481,7 @@
                 </div>
                 <div class="copyrights text-center">
                     <p class="para">
-                        Copyright ©2021-<?php echo date('YYYY'); ?> All rights reserved | This template is made by
+                        Copyright ©2021-<?php echo date('Y'); ?> All rights reserved | This template is made by
                         <a href="#"><span style="color: var(--primary-color);">Daily Tuition</span></a>
                     </p>
                 </div>
