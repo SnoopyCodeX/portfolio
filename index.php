@@ -290,6 +290,20 @@
                                 </a>
                             </div>
                             <div class="title py-4">
+                                <h4 class="text-uppercase">Read and Learn App</h4>
+                                <span class="text-secondary">Latest, Mobile App</span><br>
+                                <a href="https://github.com/SnoopyCodeX/read_and_learn_app" class="btn btn-outline-warning">See Project</a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-4 col-md-6 col-sm-12 element-item latest">
+                        <div class="our-project">
+                            <div class="img">
+                                <a class="test-popup-link">
+                                    <img src="./img/svg/attendance.svg" alt="portfolio-1" class="img-fluid" width="200" height="200">
+                                </a>
+                            </div>
+                            <div class="title py-4">
                                 <h4 class="text-uppercase">Attendance App</h4>
                                 <span class="text-secondary">Latest, Mobile App</span><br>
                                 <a href="https://github.com/SnoopyCodeX/Online-Teacher-Attendance-Monitoring-App" class="btn btn-outline-warning">See Project</a>
