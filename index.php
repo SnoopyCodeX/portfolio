@@ -116,7 +116,7 @@
                         </h2>
                         <div class="paragraph py-4 w-75">
                             <p class="para">
-                                Freelance Programmer with 9 months experience in freelancing but with 5 years of experience in creating Android Applications and Web Applications.
+                                Freelance Programmer with 1+ year experience in freelancing but with 5 years of experience in creating Android Applications and Web Applications.
                             </p>
                             <p class="para">
                                 Most proficient in backend than frontend but can still design a somewhat decent user interface if needed.
@@ -481,7 +481,7 @@
                 </div>
                 <div class="copyrights text-center">
                     <p class="para">
-                        Copyright ©2021 All rights reserved | This template is made with by
+                        Copyright ©2021-<?php echo date('yyyy'); ?> All rights reserved | This template is made by
                         <a href="#"><span style="color: var(--primary-color);">Daily Tuition</span></a>
                     </p>
                 </div>
